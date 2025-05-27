@@ -59,6 +59,3 @@ The application follows a client-server architecture:
 - The backend manages PDF processing, AI integration, and data persistence
 - API-based communication between frontend and backend
 
-## License
-
-MIT
